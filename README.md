@@ -1,2 +1,4 @@
-# devweekgit-aquino.github.io
-Currículo desenvolvido no programa Jornada Dev
+# devweek-aquino.github.io
+
+Currículo desenvolvido no programa EBAC Jornada Dev
+Setembro/2022
